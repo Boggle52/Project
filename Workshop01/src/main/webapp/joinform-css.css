@@ -1,0 +1,19 @@
+body {
+    font-family: 'Do Hyeon', sans-serif;
+}
+caption {
+    caption-side: top; text-align: center;
+}
+#texts {
+    text-align: right;
+    vertical-align: middle;
+}
+#buttons {
+    text-align: center;
+}
+#gender:checked, #hobby:checked {
+    background-color: grey
+}
+caption {
+    color:black;
+}
